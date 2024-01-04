@@ -1,0 +1,5 @@
+Abstraction is used for hiding the irrelevant information
+it can be achieved by two ways:
+								1)Using Abstract class
+								2)using Interface
+Achieving Abstraction using Abstraction class
